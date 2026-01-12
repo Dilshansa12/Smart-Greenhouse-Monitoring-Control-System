@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "677604496425",
+    "firebase_url": "https://sensor-hub-91866-default-rtdb.firebaseio.com",
+    "project_id": "sensor-hub-91866",
+    "storage_bucket": "sensor-hub-91866.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677604496425:android:81e9c9a00691d52ca83838",
+        "android_client_info": {
+          "package_name": "com.example.graapp_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677604496425-fbku3m4nssilondhklersg7l5e18u5vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe7JnySnrusXezjfLlNgU-SKPet9HgU3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677604496425-fbku3m4nssilondhklersg7l5e18u5vd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "677604496425-o9lm3gitv9mig25q10otu6qah7ji7fc4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.graappNew"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677604496425:android:6f4177230808df8da83838",
+        "android_client_info": {
+          "package_name": "com.example.greenhouse_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677604496425-7l0qi2m091bnvmao3nhd758sr0aeih2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.greenhouse_app",
+            "certificate_hash": "3605dc4f08defc399ebc0d09225e229f14b31ed4"
+          }
+        },
+        {
+          "client_id": "677604496425-fbku3m4nssilondhklersg7l5e18u5vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe7JnySnrusXezjfLlNgU-SKPet9HgU3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677604496425-fbku3m4nssilondhklersg7l5e18u5vd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "677604496425-o9lm3gitv9mig25q10otu6qah7ji7fc4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.graappNew"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677604496425:android:71d574234252295ca83838",
+        "android_client_info": {
+          "package_name": "com.greenhouse_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677604496425-fbku3m4nssilondhklersg7l5e18u5vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe7JnySnrusXezjfLlNgU-SKPet9HgU3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677604496425-fbku3m4nssilondhklersg7l5e18u5vd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "677604496425-o9lm3gitv9mig25q10otu6qah7ji7fc4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.graappNew"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
