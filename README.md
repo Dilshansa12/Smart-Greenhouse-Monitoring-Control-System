@@ -11,6 +11,7 @@ The AgroGuard system is an open-source, ESP32 based solution designed for precis
 - [Mobile Application](#mobile-application)
 - [Safety & Maintenance](#safety--maintenance)
 
+
 ---
 
 ## 🚀 Overview
@@ -22,6 +23,7 @@ AgroGuard allows users to monitor critical environmental data and control greenh
 * **Dual Control Modes:** Supports both **Auto** (Sensor-based) and **Manual** (App-based) control.
 * **Smart Alerts:** Instant notifications via Mobile App and Buzzer for critical events (e.g., Low water, Gas leak).
 * **Power Control:** Onboard 5V relays to switch AC/DC loads like pumps and fans.
+* **Mobile app** controll all equipments.
 
 ---
 
